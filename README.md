@@ -54,6 +54,26 @@ Pariz-Cataclysm-434-Source-v1.0.0.zip
 
 ---
 
+<!-- PARIZ-CLIENTE-1CLIQUE-START -->
+
+## Cliente Cataclysm 4.3.4 — download fácil
+
+**[🎮 BAIXAR INSTALADOR DO CLIENTE 4.3.4 BUILD 15595](https://github.com/ronilsondesouza045-beep/Pariz-Cataclysm-434-Repack/releases/download/v1.0.0/Pariz-Cliente-Cataclysm-434-Installer.zip)**
+
+Baixe o ZIP, extraia e execute:
+
+`	ext
+INSTALAR-CLIENTE-CATACLYSM-434.cmd
+`
+
+Não é necessário copiar comandos do PowerShell manualmente. O instalador abre uma interface e prepara o cliente no computador da própria pessoa.
+
+> Requisitos: Windows 10/11 64-bit, internet, aproximadamente 20 GB livres e permissão de administrador.
+
+O link original do **WoWClientRebuilder** e o guia detalhado continuam disponíveis em [CLIENTE.md](CLIENTE.md).
+
+<!-- PARIZ-CLIENTE-1CLIQUE-END -->
+
 ## Cliente Cataclysm 4.3.4
 
 O cliente do jogo **não está incluído no repack**.
